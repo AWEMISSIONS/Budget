@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789300833307,
+      "tag": "0000_medical_terror",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789301852355,
+      "tag": "0001_right_switch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789901370439,
+      "tag": "0002_warm_mercury",
+      "breakpoints": true
+    }
+  ]
+}
